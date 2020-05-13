@@ -1,0 +1,13 @@
+D:\Private\Test\DcoderChallenge\DcoderChallenge\bin\Debug\netcoreapp3.1\DcoderChallenge.exe
+D:\Private\Test\DcoderChallenge\DcoderChallenge\bin\Debug\netcoreapp3.1\DcoderChallenge.deps.json
+D:\Private\Test\DcoderChallenge\DcoderChallenge\bin\Debug\netcoreapp3.1\DcoderChallenge.runtimeconfig.json
+D:\Private\Test\DcoderChallenge\DcoderChallenge\bin\Debug\netcoreapp3.1\DcoderChallenge.runtimeconfig.dev.json
+D:\Private\Test\DcoderChallenge\DcoderChallenge\bin\Debug\netcoreapp3.1\DcoderChallenge.dll
+D:\Private\Test\DcoderChallenge\DcoderChallenge\bin\Debug\netcoreapp3.1\DcoderChallenge.pdb
+D:\Private\Test\DcoderChallenge\DcoderChallenge\obj\Debug\netcoreapp3.1\DcoderChallenge.csprojAssemblyReference.cache
+D:\Private\Test\DcoderChallenge\DcoderChallenge\obj\Debug\netcoreapp3.1\DcoderChallenge.csproj.CoreCompileInputs.cache
+D:\Private\Test\DcoderChallenge\DcoderChallenge\obj\Debug\netcoreapp3.1\DcoderChallenge.AssemblyInfoInputs.cache
+D:\Private\Test\DcoderChallenge\DcoderChallenge\obj\Debug\netcoreapp3.1\DcoderChallenge.AssemblyInfo.cs
+D:\Private\Test\DcoderChallenge\DcoderChallenge\obj\Debug\netcoreapp3.1\DcoderChallenge.dll
+D:\Private\Test\DcoderChallenge\DcoderChallenge\obj\Debug\netcoreapp3.1\DcoderChallenge.pdb
+D:\Private\Test\DcoderChallenge\DcoderChallenge\obj\Debug\netcoreapp3.1\DcoderChallenge.genruntimeconfig.cache
