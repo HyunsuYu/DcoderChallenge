@@ -1047,7 +1047,6 @@ namespace DcoderChallenge
         {
             Fourier fourier = new Fourier(10, 20, 10, 10, 5, 0.001, -5);
             fourier.Print();
-
             Console.ReadLine();
         }
     }
